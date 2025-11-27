@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Tim Chen"
+  title: "Sally Tsai"
   site-url: "https://weitingchen.com"
   navbar:
     right:
