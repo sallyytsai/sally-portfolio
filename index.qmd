@@ -4,14 +4,14 @@ about:
   template: trestles
   image-width: 15em
   image-shape: round
-  image: photos\Canon-0806.JPG
+  image: photos\59AF9C00-B7DF-407C-B74A-678C40F349BF_1_102_o.jpeg
   links:
     - icon: envelope
       text: "Email"
       href: "mailto:sallytsai6640@gmail.com"
     - icon: github
       text: "GitHub"
-      href: https://github.com/timchen0326
+      href: https://github.com/sallyytsai
     - icon: linkedin
       text: "LinkedIn"
       href: https://www.linkedin.com/in/sallyytsai/

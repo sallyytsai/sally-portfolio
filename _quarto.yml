@@ -4,35 +4,34 @@ project:
 
 website:
   title: "Sally Tsai"
-  site-url: "https://weitingchen.com"
   navbar:
     right:
       - href: index.qmd
         text: Home
       - href: courses.qmd
         text: Courses
-      - text: Hobbies
-        menu:
-          - href: coffee.qmd
       - text: Projects
-        menu: 
-          - student-analysis.qmd
-          - ml-challenge.qmd
-          - toronto-crime-analysis.qmd
-          - us-presidential election.qmd
-          - toronto-shelter-analysis.qmd
-          - bike-theft-analysis.qmd
-          - iMDb-analysis.qmd
-          - mayohr-intern.qmd
-          - traffic-collision-analysis.qmd
-      - href: https://timsplayland.vercel.app/
-        text: Portfolio
+        menu:
+          - text: Brazil Health Outcomes (Quant)
+            href: pdfs/brazil-health-outcome.pdf
+          - text: "Growth Decomposition: Azerbaijan vs Turkey (Quant/memo)"
+            href: pdfs/Asian Development Bank Internal Memorandum.pdf
+          - text: Taiwan Nuclear Policy Cycle (Memo)
+            href: pdfs/PPG401 policy cycle.pdf
+          - text: "Taiwan's Energy Transition (Quant/memo)"
+            href: pdfs/POl474 Paper 1.pdf
+          - text: Democracy, Equality, and State Violence (Quant)
+            href: pdfs/Democracy, Equality, and State Violence.pdf
+          - text: "Israel Constitutional Void (Political Science)"
+            href: pdfs/POL377 Essay.pdf
+
+    
       - text: "Resume"
-        href: pdfs/resume_2025.pdf
+        href: pdfs/Sally Resume.pdf
       - icon: github
-        href: https://github.com/timchen0326
+        href: https://github.com/sallyytsai
       - icon: envelope
-        href: "mailto:timchen0326ca@gmail.com"
+        href: "mailto:sallytsai6640@gmail.com"
 
 format:
   html:

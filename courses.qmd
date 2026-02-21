@@ -1,83 +1,182 @@
 ---
-title: "Courses Taken at University of Toronto"
+title: "MPA/ID Core Courses"
 format:
   html:
     toc: true
     toc-title: "Course Code Overview"
 ---
 
-This page lists all the courses I have taken or am currently enrolled in at the University of Toronto, organized by course code prefix.
+This page lists the MPA/ID core courses I have taken or am currently enrolled in.
 
 ---
 
-## **AMS (American Studies)**
-- **AMS100H1F**: Global Capitalism (2024 Fall)  
+## **API (Public Policy Economics and Quantitative Methods)**
+
+### **API-109**: Advanced Microeconomic Analysis I: Supply, Demand, and Equilibrium
+
+This course gave me a rigorous microeconomic foundation for policy analysis by training me to model how households and firms respond to prices, constraints, risk, and policy interventions. I learned to move from intuition to formal equilibrium analysis, which is especially valuable for evaluating subsidies, taxes, market failures, and welfare tradeoffs in development and public policy contexts. HKS describes API-109 as the first course in a rigorous MPA/ID microeconomics sequence covering consumer theory, producer theory, risk under uncertainty, partial equilibrium, and externalities.
+
+Technical and role relevant skills
+
+- Consumer and producer optimization under constraints  
+- Comparative statics for policy shocks, taxes, subsidies, and price changes  
+- Partial equilibrium modeling of markets and distortions  
+- Welfare analysis, efficiency tradeoffs, and distributional reasoning  
+- Risk and uncertainty analysis for household and firm behavior  
+- Externalities and market failure diagnosis for policy design  
+- Translating policy problems into formal economic models, useful for World Bank, IDB, and policy consulting analytical work  
+- Clear economic interpretation of model results, useful for Brookings style policy memos and IMF technical discussions  
 
 ---
 
-## **APM (Applied Mathematics)**
-- **APM346H1S**: Partial Differential Equations (2024 Winter)  
-- **APM466H1S**: Mathematical Theory of Finance (2025 Winter)  
+### **API-110**: Advanced Microeconomic Analysis II: Game Theory and Information Economics
+
+This course strengthened my ability to analyze strategic behavior, incentive design, and information frictions in policy settings. I learned to evaluate how firms, governments, voters, regulators, and service providers respond to rules and institutions when incentives are misaligned or information is incomplete, which is central to governance, regulation, and development implementation. HKS describes API-110 as the second course in the sequence, covering game theory, information economics, incentives, and contracts.
+
+Technical and role relevant skills
+
+- Static and dynamic game theory for strategic interaction analysis  
+- Equilibrium reasoning under complete and incomplete information  
+- Information economics, including signaling and screening logic  
+- Incentive and contract design under asymmetric information  
+- Principal agent problem framing for public sector and organizational settings  
+- Institutional analysis of credibility, enforcement, and compliance  
+- Strategic stakeholder response analysis, useful for policy consulting and reform design  
+- Governance and regulatory design thinking, useful for World Bank, IDB, and Brookings policy research  
 
 ---
 
-## **CSC (Computer Science)**
-- **CSC108H1F**: Introduction to Computer Programming (2022 Fall)  
-- **CSC148H1S**: Introduction to Computer Science (2023 Winter)  
-- **CSC165H1S**: Mathematical Expression and Reasoning for Computer Science (2024 Winter)  
-- **CSC207H1F**: Software Design (2024 Fall)  
-- **CSC209H1S**: Software Tools and Systems Programming (2025 Winter)  
-- **CSC236H1F**: Introduction to the Theory of Computation (2024 Fall)  
-- **CSC311H1S**: Introduction to Machine Learning (2025 Winter)  
-- **CSC343H1S**: Introduction to Databases (2025 Winter)  
+### **API-119**: Advanced Macroeconomics for the Open Economy I
+
+This course built my core framework for analyzing macroeconomic policy in open economies, with a strong focus on monetary, fiscal, exchange rate, inflation, and current account dynamics. I learned to assess macro policy tradeoffs in developing and emerging market contexts where external shocks, capital flows, and credibility constraints shape policy space. HKS describes API-119 as the first course in the MPA/ID open economy macro sequence, focused on international dimensions of macro policy and small open economies.
+
+Technical and role relevant skills
+
+- Open economy macro policy analysis, including monetary, fiscal, and exchange rate channels  
+- Current account and national income accounting in policy diagnosis  
+- Inflation stabilization and countercyclical policy reasoning  
+- Small open economy constraints and global market price exposure  
+- Macroeconomic tradeoff analysis under external vulnerability  
+- Policy regime evaluation in developing country settings  
+- Country level macro diagnostic framing, useful for IMF, World Bank, and IDB country teams  
+- Translating macro signals into policy recommendations, useful for Brookings and consulting reports  
 
 ---
 
-## **ESS (Earth Sciences)**
-- **ESS205H1S**: Confronting Global Change (2023 Summer)  
+### **API-120**: Advanced Macroeconomics for the Open Economy II
+
+This course expanded my macro toolkit into international finance risks and dynamic macro modeling. I developed stronger technical fluency in exchange rate dynamics, external crises, debt sustainability, and dynamic optimization based macro frameworks, which are directly relevant to sovereign risk analysis, stabilization policy, and growth strategy work. HKS describes API-120 as covering international financial integration, speculative attacks, carry trade, portfolio choice, currency and default risk, Debt Sustainability Analysis, emerging market crises, and dynamic optimization based growth and macro models.
+
+Technical and role relevant skills
+
+- Exchange rate models and speculative attack frameworks  
+- Carry trade and international portfolio risk reasoning  
+- Currency risk, default risk, and sovereign vulnerability analysis  
+- Debt Sustainability Analysis concepts for emerging markets  
+- Crisis transmission mechanisms and macro financial stress diagnostics  
+- Dynamic optimization intuition for growth and fluctuations  
+- Familiarity with modern macro frameworks, including DSGE level concepts  
+- Strong fit for IMF, World Bank, and IDB macroeconomic policy, debt, and country risk roles  
+- Useful foundation for policy consulting projects involving fiscal sustainability, external balance, or crisis response  
 
 ---
 
-## **MAT (Mathematics)**
-- **MAT137Y1**: Calculus with Proofs (2021 Fall–Winter)  
-- **MAT224H1S**: Linear Algebra II (2023 Winter)  
-- **MAT237Y1**: Multivariable Calculus with Proofs (2023 Summer)  
-- **MAT240H1F**: Algebra I (2021 Fall)  
-- **MAT244H1S**: Introduction to Ordinary Differential Equations (2023 Winter)  
-- **MAT246H1F**: Concepts in Abstract Mathematics (2022 Fall)  
-- **MAT301H1F**: Groups and Symmetries (2023 Fall)  
-- **MAT334H1F**: Complex Variables (2023 Fall)  
+### **API-209**: Advanced Quantitative Methods I: Description and Prediction
+
+This course strengthened my statistical foundation for public policy analysis by focusing on rigorous description, prediction, and interpretation rather than only mechanical computation. I learned to use probability, inference, regression, and predictive methods to structure uncertainty, evaluate evidence quality, and communicate empirical findings for policy decisions. HKS describes API-209 as preparing students to analyze public policy issues using statistics, with emphasis on conceptual understanding and coverage that includes statistical inference, causal inference, and machine learning.
+
+Technical and role relevant skills
+
+- Probability and statistical reasoning for policy uncertainty  
+- Estimation, hypothesis testing, and confidence interval interpretation  
+- Regression analysis for descriptive and predictive tasks  
+- Model evaluation and prediction focused thinking  
+- Conceptual understanding of statistical methods and assumptions  
+- Data interpretation for decision making under uncertainty  
+- Evidence communication for policy memos and applied research products  
+- Direct relevance for Brookings research roles, World Bank and IDB analytics, and consulting teams that require quantitative synthesis  
 
 ---
 
-## **MUS (Music)**
-- **MUS306H1F**: Popular Music in North America (2024 Fall)  
+### **API-210**: Advanced Quantitative Methods II: Causal Inference
+
+This course trained me to evaluate when empirical evidence supports credible causal claims, and how to choose appropriate identification strategies for policy questions. I built applied econometrics skills for program evaluation and policy analysis through frameworks such as randomized evaluations, instrumental variables, regression discontinuity, and difference in differences, along with practical empirical implementation. HKS describes API-210 as a continuation of API-209 focused on the theory and practical application of causal inference tools, including RCTs, IV, RD, and DiD.
+
+Technical and role relevant skills
+
+- Counterfactual reasoning and causal estimand framing  
+- Identification strategy selection for policy and program evaluation  
+- Randomized evaluation design and interpretation  
+- Instrumental variables, regression discontinuity, and difference in differences  
+- Internal validity assessment and threat to identification diagnosis  
+- Applied econometric interpretation for policy audiences  
+- Empirical evaluation skills valued in World Bank, IDB, and Brookings research units  
+- Strong fit for policy consulting engagements involving impact evaluation, monitoring, and evidence based recommendations  
 
 ---
 
-## **PHL (Philosophy)**
-- **PHL245H1S**: Modern Symbolic Logic (2023 Winter)  
+## **DEV (Economic Development)**
+
+### **DEV-101**: Economic Development: Theory and Evidence
+
+This course gave me a structured framework for diagnosing development challenges by combining economic theory with empirical evidence across countries. I learned to analyze the drivers of factor accumulation, productivity, and resource allocation, and to distinguish proximate symptoms from deeper constraints when evaluating development strategies and reforms. HKS describes DEV-101 as a course that evaluates development theories and evidence and uses analytical frameworks grounded in economic theory to study factor accumulation and productivity across countries.
+
+Technical and role relevant skills
+
+- Development diagnostics using theory plus empirical evidence  
+- Productivity and resource allocation analysis across sectors and countries  
+- Factor accumulation frameworks for human, physical, and institutional capital  
+- Mechanism based reasoning about growth constraints and policy bottlenecks  
+- Comparative development analysis across country contexts  
+- Root cause diagnosis rather than symptom level policy framing  
+- Strong relevance for World Bank and IDB development operations and analytical work  
+- Valuable for Brookings policy research and consulting projects in growth, governance, and social sector reform  
 
 ---
 
-## **PHY (Physics)**
-- **PHY151H1F**: Foundations of Physics I (2021 Fall)  
-- **PHY152H1S**: Foundations of Physics II (2022 Winter)  
+### **DEV-102 / often listed as DEV-102M**: Economic Development: Using Analytic Frameworks for Smart Policy Design
+
+This course strengthened my ability to move from diagnosis to policy design by applying economic theory and rigorous evidence to real development policy problems. I learned to design interventions that respond to market and political failures while accounting for sector specific tradeoffs in education, health, finance, governance, and political economy, which is a core skill for applied development policy roles. HKS describes this course as examining how economic theory and evidence can be used to design development policies that address market and political failures, and notes that it builds on DEV-101.
+
+Technical and role relevant skills
+
+- Policy design using economic frameworks and evidence  
+- Translating development diagnostics into intervention options  
+- Market failure and political failure analysis in policy design  
+- Cross sector application in education, health, finance, and governance  
+- Tradeoff analysis across efficiency, equity, feasibility, and implementation risk  
+- Structured policy option comparison for decision makers  
+- Direct fit for World Bank, IDB, and policy consulting roles focused on reform design and implementation support  
+- Strong signal for Brookings style applied policy analysis that combines rigor with practical recommendations  
 
 ---
 
-## **PSY (Psychology)**
-- **PSY100H1S**: Introductory Psychology (2022 Winter)  
+### **DEV-401 / often listed as DEV-401Y**: Applications and Cases in International Development
+
+This course helped me integrate economics, political economy, and policy analysis in real world development cases. I developed practical policy judgment by diagnosing social and institutional problems, evaluating stakeholder tradeoffs, and designing solutions that are technically sound, politically supportable, and administratively feasible, which closely mirrors the workflow in multilateral institutions and policy consulting teams. HKS course materials describe DEV-401Y as a year long course that develops policy arena analytical skills through frameworks from economics and other social sciences, using cases, simulations, and debates.
+
+Technical and role relevant skills
+
+- Case based policy diagnosis under real world constraints  
+- Integration of economics, politics, institutions, and administration  
+- Stakeholder analysis and policy feasibility assessment  
+- Policy option design and comparative evaluation  
+- Applied problem solving through simulations, debates, and cases  
+- Communicating recommendations that are technically correct and implementable  
 
 ---
 
-## **STA (Statistics)**
-- **STA257H1F**: Probability and Statistics I (2022 Fall)  
-- **STA261H1S**: Probability and Statistics II (2023 Winter)  
-- **STA302H1F**: Methods of Data Analysis I (2023 Fall)  
-- **STA303H1S**: Methods of Data Analysis II (2024 Winter)  
-- **STA304H1F**: Surveys, Sampling, and Observational Data (2024 Fall)  
-- **STA313H1S**: Data Visualization (2024 Winter)  
-- **STA347H1F**: Probability (2023 Fall)  
-- **STA437H1F**: Methods for Multivariate Data (2023 Fall)  
-- **STA457H1S**: Time Series Analysis (2024 Winter)  
+## **DPI (Development, Policy, and International Affairs)**
+
+### **DPI-410**: The Politics of Development: Power, Institutions, and Prosperity
+
+This course strengthened my political economy toolkit for understanding why technically strong policies succeed in some settings and fail in others. I learned to analyze how power distribution, institutions, state capacity, conflict, and coalition dynamics shape development outcomes and reform feasibility, which is essential for designing policies that are both analytically strong and politically realistic. HKS describes DPI-410 as examining theories of political competition, institutions, state building, conflict, regulation, culture, and entrepreneurship against cases and data, with an emphasis on frameworks for political economy analysis.
+
+Technical and role relevant skills
+
+- Political economy analysis of reform incentives and distributional conflict  
+- Institutional and state capacity diagnosis  
+- Coalition, stakeholder, and power mapping for policy implementation  
+- Conflict and governance analysis in development contexts  
+- Evaluating policy feasibility beyond technical design  
+- Using cases and data to assess competing political explanations  
