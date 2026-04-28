@@ -1,1 +1,30 @@
 /* css styles */
+
+/* Project cards */
+.grid {
+  margin-top: 0.5rem;
+  gap: 1rem;
+}
+
+.g-col-md-4 {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: 1.2rem 1.4rem;
+  border-left: 4px solid #2c3e50;
+}
+
+.g-col-md-4 h3 {
+  font-size: 1rem;
+  margin-bottom: 0.3rem;
+}
+
+.g-col-md-4 p:first-of-type {
+  font-size: 0.8rem;
+  color: #6c757d;
+  margin-bottom: 0.6rem;
+}
+
+/* Tighten about section spacing */
+.about-links {
+  margin-top: 1rem;
+}

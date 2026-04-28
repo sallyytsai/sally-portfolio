@@ -4,7 +4,21 @@
     "href": "index.html",
     "title": "Sally Tsai",
     "section": "",
-    "text": "I am a Master in Public Administration in International Development (MPA/ID) student at the Harvard Kennedy School. My work sits at the intersection of quantitative analysis, development economics, and public policy, with a focus on how careful evidence can inform better decisions for governments and global organizations.\nIn the MPA/ID program I study microeconomics, macroeconomics, statistics, and program evaluation, and I apply these tools to concrete policy questions. I am especially interested in topics such as inclusive growth, social protection, and state capacity in emerging and developing economies.\nI have experience with data analysis and statistical programming, including applied coursework and research that use empirical tools to study policy problems. I enjoy collaborating in teams that combine technical skills with local knowledge and policy experience.\nAt Harvard Kennedy School I am also involved in the student community as part of international and development focused networks, and I care about creating spaces where students from different backgrounds can learn from one another.\nOver the long term I hope to contribute to public sector and multilateral work that relies on sound economic reasoning, clear communication, and practical implementation to improve outcomes for people in low and middle income countries."
+    "text": "I am a Master in Public Administration in International Development (MPA/ID) student at the Harvard Kennedy School, specializing in political economy, quantitative policy analysis, and international development. My research focuses on how security concerns, industrial policy, and political institutions shape economic outcomes — with a particular interest in East Asia and cross-strait relations.\nMy work combines rigorous empirical methods — causal inference, ordered logistic regression, synthetic control — with deep engagement in the political and institutional context behind the numbers. I have applied these tools to questions ranging from Taiwan’s EV trade restrictions to Brazil’s health infrastructure to fiscal policy in emerging markets.\nI am especially interested in roles at the intersection of data-driven analysis and policy design, in government, multilateral institutions, or applied research."
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Sally Tsai",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\nTaiwan EV Policy & Cross-Strait Security\nMethods: Ordered logit · Synthetic control · Placebo inference\nWhy does Taiwan maintain the world’s most restrictive policy toward Chinese electric vehicles? This paper argues security salience — not industrial lobbying — is the primary driver, using cross-national data from 60+ countries.\nView paper →\n\n\nBrazil Health Outcomes\nMethods: Quantitative analysis · Program evaluation\nExamining the relationship between public health infrastructure and outcomes across Brazilian municipalities.\nView paper →\n\n\nGrowth Decomposition: Azerbaijan vs Turkey\nMethods: Growth accounting · Policy memo\nComparative macroeconomic analysis of growth drivers for the Asian Development Bank.\nView paper →"
+  },
+  {
+    "objectID": "index.html#skills-tools",
+    "href": "index.html#skills-tools",
+    "title": "Sally Tsai",
+    "section": "Skills & Tools",
+    "text": "Skills & Tools\nProgramming: R (tidyverse, ggplot2, knitr, Quarto), Stata\nMethods: Causal inference (IV, RD, DiD) · Ordered logistic regression · Synthetic control · OLS with robust SEs · Growth accounting · Political economy analysis\nAreas: Cross-strait political economy · Industrial policy · Social protection · State capacity · Fiscal policy in emerging markets"
   },
   {
     "objectID": "courses.html",

@@ -4,7 +4,7 @@ about:
   template: trestles
   image-width: 15em
   image-shape: round
-  image: photos\59AF9C00-B7DF-407C-B74A-678C40F349BF_1_102_o.jpeg
+  image: photos/59AF9C00-B7DF-407C-B74A-678C40F349BF_1_102_o.jpeg
   links:
     - icon: envelope
       text: "Email"
@@ -17,12 +17,53 @@ about:
       href: https://www.linkedin.com/in/sallyytsai/
 ---
 
-I am a **Master in Public Administration in International Development (MPA/ID)** student at the **Harvard Kennedy School**. My work sits at the intersection of **quantitative analysis**, **development economics**, and **public policy**, with a focus on how careful evidence can inform better decisions for governments and global organizations.
+I am a **Master in Public Administration in International Development (MPA/ID)** student at the **Harvard Kennedy School**, specializing in **political economy**, **quantitative policy analysis**, and **international development**. My research focuses on how security concerns, industrial policy, and political institutions shape economic outcomes — with a particular interest in East Asia and cross-strait relations.
 
-In the MPA/ID program I study **microeconomics**, **macroeconomics**, **statistics**, and **program evaluation**, and I apply these tools to concrete policy questions. I am especially interested in topics such as inclusive growth, social protection, and state capacity in emerging and developing economies.
+My work combines rigorous empirical methods — causal inference, ordered logistic regression, synthetic control — with deep engagement in the political and institutional context behind the numbers. I have applied these tools to questions ranging from Taiwan's EV trade restrictions to Brazil's health infrastructure to fiscal policy in emerging markets.
 
-I have experience with **data analysis and statistical programming**, including applied coursework and research that use empirical tools to study policy problems. I enjoy collaborating in teams that combine technical skills with local knowledge and policy experience.
+I am especially interested in roles at the intersection of data-driven analysis and policy design, in government, multilateral institutions, or applied research.
 
-At Harvard Kennedy School I am also involved in the student community as part of international and development focused networks, and I care about creating spaces where students from different backgrounds can learn from one another.
+---
 
-Over the long term I hope to contribute to public sector and multilateral work that relies on sound economic reasoning, clear communication, and practical implementation to improve outcomes for people in low and middle income countries.
+## Featured Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Taiwan EV Policy & Cross-Strait Security
+**Methods:** Ordered logit · Synthetic control · Placebo inference
+
+Why does Taiwan maintain the world's most restrictive policy toward Chinese electric vehicles? This paper argues security salience — not industrial lobbying — is the primary driver, using cross-national data from 60+ countries.
+
+[View paper →](pdfs/taiwan-ev-policy-analysis.pdf)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Brazil Health Outcomes
+**Methods:** Quantitative analysis · Program evaluation
+
+Examining the relationship between public health infrastructure and outcomes across Brazilian municipalities.
+
+[View paper →](pdfs/brazil-health-outcome.pdf)
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Growth Decomposition: Azerbaijan vs Turkey
+**Methods:** Growth accounting · Policy memo
+
+Comparative macroeconomic analysis of growth drivers for the Asian Development Bank.
+
+[View paper →](pdfs/Asian Development Bank Internal Memorandum.pdf)
+:::
+
+:::
+
+---
+
+## Skills & Tools
+
+**Programming:** R (tidyverse, ggplot2, knitr, Quarto), Stata
+
+**Methods:** Causal inference (IV, RD, DiD) · Ordered logistic regression · Synthetic control · OLS with robust SEs · Growth accounting · Political economy analysis
+
+**Areas:** Cross-strait political economy · Industrial policy · Social protection · State capacity · Fiscal policy in emerging markets
