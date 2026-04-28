@@ -62,7 +62,7 @@ Comparative macroeconomic analysis of growth drivers for the Asian Development B
 
 ## Skills & Tools
 
-**Programming:** R (tidyverse, ggplot2, knitr, Quarto), Stata
+**Programming & Tools:** R (tidyverse, ggplot2, knitr, Quarto), Excel, Claude AI, ChatGPT
 
 **Methods:** Causal inference (IV, RD, DiD) · Ordered logistic regression · Synthetic control · OLS with robust SEs · Growth accounting · Political economy analysis
 
