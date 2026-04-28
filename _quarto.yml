@@ -12,6 +12,8 @@ website:
         text: Courses
       - text: Projects
         menu:
+          - text: "Taiwan EV Policy & Cross-Strait Security (Quant/paper)"
+            href: pdfs/taiwan-ev-policy-analysis.pdf
           - text: Brazil Health Outcomes (Quant)
             href: pdfs/brazil-health-outcome.pdf
           - text: "Growth Decomposition: Azerbaijan vs Turkey (Quant/memo)"
@@ -20,14 +22,8 @@ website:
             href: pdfs/PPG401 policy cycle.pdf
           - text: "Taiwan's Energy Transition (Quant/memo)"
             href: pdfs/POl474 Paper 1.pdf
-          - text: Democracy, Equality, and State Violence (Quant)
-            href: pdfs/Democracy, Equality, and State Violence.pdf
           - text: "Israel Constitutional Void (Political Science)"
             href: pdfs/POL377 Essay.pdf
-
-    
-          - text: "Taiwan EV Policy & Cross-Strait Security (Quant/paper)"
-            href: pdfs/taiwan-ev-policy-analysis.pdf
       - text: "Resume"
         href: pdfs/Sally Resume.pdf
       - icon: github
