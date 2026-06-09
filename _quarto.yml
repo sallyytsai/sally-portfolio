@@ -4,26 +4,26 @@ project:
 
 website:
   title: "Sally Tsai"
+  description: "MPA/ID Candidate · Harvard Kennedy School · International Political Economy · Causal Inference"
+  open-graph:
+    title: "Sally Tsai"
+    description: "Research on small open economies, trade policy, and security-economy interactions."
   navbar:
     right:
       - href: index.qmd
         text: Home
       - href: courses.qmd
         text: Courses
-      - text: Projects
+      - text: "Research & Papers"
         menu:
-          - text: "Taiwan EV Policy & Cross-Strait Security (Quant/paper)"
-            href: pdfs/taiwan-ev-policy-analysis.pdf
-          - text: Brazil Health Outcomes (Quant)
-            href: pdfs/brazil-health-outcome.pdf
-          - text: "Growth Decomposition: Azerbaijan vs Turkey (Quant/memo)"
-            href: pdfs/Asian Development Bank Internal Memorandum.pdf
+          - text: "The Security Premium (EV Policy & Security, 2026)"
+            href: pdfs/tsai-wang-sanchez-security-premium-2026.pdf
+          - text: "VAT Pass-Through: Philippine Pharma (Working Paper, 2026)"
+            href: pdfs/tsai-vega-vat-passthrough-2026.pdf
           - text: Taiwan Nuclear Policy Cycle (Memo)
             href: pdfs/PPG401 policy cycle.pdf
           - text: "Taiwan's Energy Transition (Quant/memo)"
             href: pdfs/POl474 Paper 1.pdf
-          - text: "Israel Constitutional Void (Political Science)"
-            href: pdfs/POL377 Essay.pdf
       - text: "Resume"
         href: pdfs/Sally Resume.pdf
       - icon: github
@@ -39,4 +39,3 @@ format:
 
 execute:
   freeze: true
-

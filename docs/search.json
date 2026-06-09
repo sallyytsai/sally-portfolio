@@ -4,21 +4,42 @@
     "href": "index.html",
     "title": "Sally Tsai",
     "section": "",
-    "text": "I am a Master in Public Administration in International Development (MPA/ID) student at the Harvard Kennedy School, specializing in political economy, quantitative policy analysis, and international development. My research focuses on how security concerns, industrial policy, and political institutions shape economic outcomes — with a particular interest in East Asia and cross-strait relations.\nMy work combines rigorous empirical methods — causal inference, ordered logistic regression, synthetic control — with deep engagement in the political and institutional context behind the numbers. I have applied these tools to questions ranging from Taiwan’s EV trade restrictions to Brazil’s health infrastructure to fiscal policy in emerging markets.\nI am especially interested in roles at the intersection of data-driven analysis and policy design, in government, multilateral institutions, or applied research."
+    "text": "I am an MPA/ID candidate at Harvard Kennedy School (2027), specializing in international political economy, trade policy, and causal inference. My research asks how small open economies navigate the intersection of security competition and economic integration — particularly when the two pull in opposite directions. I work primarily with cross-national quantitative methods and combine them with process tracing and case analysis grounded in the political and institutional context.\nI hold a concurrent appointment as a Research Affiliate at the Philippine Competition Commission (with Carlos Vega), where I study fiscal pass-through in regulated markets. Before HKS, I worked in public policy and finance in Taiwan and Southeast Asia."
   },
   {
-    "objectID": "index.html#featured-projects",
-    "href": "index.html#featured-projects",
+    "objectID": "index.html#research-questions",
+    "href": "index.html#research-questions",
     "title": "Sally Tsai",
-    "section": "Featured Projects",
-    "text": "Featured Projects\n\n\nTaiwan EV Policy & Cross-Strait Security\nMethods: Ordered logit · Synthetic control · Placebo inference\nWhy does Taiwan maintain the world’s most restrictive policy toward Chinese electric vehicles? This paper argues security salience — not industrial lobbying — is the primary driver, using cross-national data from 60+ countries.\nView paper →\n\n\nBrazil Health Outcomes\nMethods: Quantitative analysis · Program evaluation\nExamining the relationship between public health infrastructure and outcomes across Brazilian municipalities.\nView paper →\n\n\nGrowth Decomposition: Azerbaijan vs Turkey\nMethods: Growth accounting · Policy memo\nComparative macroeconomic analysis of growth drivers for the Asian Development Bank.\nView paper →"
+    "section": "Research Questions",
+    "text": "Research Questions\n\n\n\n\n\n\n\n\n\n#\nQuestion\nMethods\nGeography\n\n\n\n\nQ1\nHow does security salience shape small open economies’ trade restrictions on geopolitical rivals’ goods?\nCross-national ordered logit, synthetic control\n60+ countries\n\n\nQ2\nDo VAT reforms pass through to consumer prices in regulated pharmaceutical markets, and who bears the welfare cost?\nDiD, triple-difference, synthetic control\nPhilippines\n\n\nQ3\nHow do SMEs in trade-exposed sectors adjust to geopolitical supply-chain disruptions?\nSurvey + quasi-experimental\nTaiwan/East Asia\n\n\nQ4\nDoes geopolitical exposure generate Dutch-disease-style crowding-out in non-defense tradables?\nPanel IV\nEast Asia"
+  },
+  {
+    "objectID": "index.html#featured-research",
+    "href": "index.html#featured-research",
+    "title": "Sally Tsai",
+    "section": "Featured Research",
+    "text": "Featured Research\n\n\nThe Security Premium: Why Taiwan Maintains the World’s Most Restrictive Policy toward Chinese Electric Vehicles\nCo-authors: Cheng Wang · Luis Hong Sanchez · HKS DPI-410, Spring 2026\nMethods: Cross-national ordered logit (N ≈ 60) · Synthetic control · Placebo inference · Process tracing\nTaiwan bans BYD outright while Germany imposes a 35% tariff and Indonesia mandates local content. Why do countries facing the same Chinese EV competitive threat respond so differently? This paper argues the key variable is security salience — the degree to which a country perceives the exporting state as a strategic threat — rather than domestic industry lobbying or consumer welfare calculus.\nWe construct a 0–3 ordered policy restrictiveness index across 60+ countries and show security salience (operationalized as UNGA divergence, alliance portfolio distance, and SCO membership) predicts the upper tail of the distribution even after controlling for domestic EV penetration, production capacity, and democratic accountability. A synthetic control for Taiwan traces the 2022–2024 tightening and rejects alternative explanations. Process tracing confirms the mechanism runs through elite threat perception, not industry rents.\nFramework: The paper maps countries onto a 2×2 of (security salience × domestic EV industry strength) to distinguish four policy archetypes: Security Firewall (Taiwan), Strategic Hedge (EU), Industrial Shield (Indonesia/Thailand), and Open Market (Singapore/NZ).\nDownload paper (PDF) →\n\n\nVAT Pass-Through in Philippine Pharmaceutical Markets: Evidence from the TRAIN Act\nCo-author: Carlos Vega (Philippine Competition Commission / University of East Anglia) · Working Paper, 2026\nMethods: Difference-in-differences · Triple-difference · Synthetic control · Welfare decomposition\nThe Philippines’ 2018 TRAIN Act removed VAT exemptions on medicines for non-essential conditions while maintaining them for drugs treating diabetes, hypertension, and high cholesterol. This natural experiment allows clean identification of VAT pass-through rates under market regulation.\nUsing transaction-level pharmacy data, we estimate near-complete pass-through (≈95%) for affected molecules, implying the tax burden falls almost entirely on consumers. A triple-difference exploiting the essential/non-essential split and the brand/generic margin confirms the finding is not driven by concurrent supply shocks. Synthetic control corroborates the parallel-trends assumption. Welfare calculations show the bottom income quintile bears approximately 2.3× the VAT burden as a share of out-of-pocket health expenditure relative to the top quintile.\nThe results have direct implications for pharmaceutical pricing regulation and VAT exemption design in middle-income countries with mixed public-private drug markets.\nDownload paper (PDF) →"
+  },
+  {
+    "objectID": "index.html#research-in-progress",
+    "href": "index.html#research-in-progress",
+    "title": "Sally Tsai",
+    "section": "Research in Progress",
+    "text": "Research in Progress\nSME Trade Adjustment to Geopolitical Supply-Chain Disruption (SYPA project, HKS) How do small and medium enterprises in Taiwan’s electronics supply chain reallocate inputs, customers, and capital in response to US-China technology decoupling? Survey design + quasi-experimental analysis of firm-level administrative data. Expected output: policy memo + working paper, Summer 2026.\nGeopolitical Dutch Disease: Does Security Spending Crown Out Tradable Non-Defense Sectors? A panel IV approach testing whether elevated defense spending in small open economies depresses export competitiveness in non-defense manufacturing, using geopolitical risk shocks as instruments. Early-stage; building dataset from SIPRI + UN Comtrade."
+  },
+  {
+    "objectID": "index.html#earlier-work",
+    "href": "index.html#earlier-work",
+    "title": "Sally Tsai",
+    "section": "Earlier Work",
+    "text": "Earlier Work\nTaiwan Nuclear Policy Cycle — Policy memo analyzing the political and institutional dynamics behind Taiwan’s nuclear energy transitions. View →\nTaiwan’s Energy Transition — Quantitative memo on renewable energy adoption constraints and grid integration policy. View →"
   },
   {
     "objectID": "index.html#skills-tools",
     "href": "index.html#skills-tools",
     "title": "Sally Tsai",
     "section": "Skills & Tools",
-    "text": "Skills & Tools\nProgramming & Tools: R (tidyverse, ggplot2, knitr, Quarto), Excel\nAI-assisted research & analysis: Proficient in leveraging large language models (Claude, ChatGPT) as research and analytical tools — for structuring arguments, accelerating literature synthesis, iterating on code, and pressure-testing policy reasoning\nMethods: Causal inference (IV, RD, DiD) · Ordered logistic regression · Synthetic control · OLS with robust SEs · Growth accounting · Political economy analysis\nAreas: Cross-strait political economy · Industrial policy · Social protection · State capacity · Fiscal policy in emerging markets"
+    "text": "Skills & Tools\nProgramming: R (tidyverse, ggplot2, fixest, synthetic control, Quarto) · Stata · Excel\nCausal inference: DiD · Triple-difference · Synthetic control · IV · RD · Ordered logit · OLS with robust/clustered SEs\nResearch methods: Cross-national quantitative analysis · Process tracing · Elite interviews · Survey design\nAreas: Cross-strait political economy · Industrial and trade policy · Pharmaceutical markets · Small open economy macro · State capacity\nLanguages: English (native) · Mandarin (native) — enables primary-source access to Chinese-language government data, firm filings, and media\nAI-augmented research: Proficient in using LLMs (Claude, ChatGPT) for literature synthesis, code iteration, argument stress-testing, and memo drafting — treating AI as a research accelerant, not a substitute for analytical judgment"
   },
   {
     "objectID": "courses.html",
