@@ -28,9 +28,9 @@ quantitative methods with Mandarin-language primary source access — MOEA firm 
 surveys, Legislative Yuan records — that most researchers working on these questions
 cannot use directly.
 
-Currently: MPA/ID Candidate 2027, Harvard Kennedy School. Incoming data infrastructure
-intern, African Legal Support Facility (ALSF / African Development Bank). Former research
-associate, Philippine Competition Commission — Economics Office.
+Currently: MPA/ID Candidate 2027, Harvard Kennedy School. Consultant (Intern), African
+Development Bank — Africa Legal Support Facility (ALSF), Jun–Sep 2026. Former Economics
+Intern, Philippine Competition Commission, Economics Office.
 
 ---
 
@@ -141,9 +141,9 @@ identifying intentional diversification responses versus passive adjustment.
 
 **Methods:** Difference-in-differences · Program evaluation · Municipal-level panel data
 
-Causal analysis of public health infrastructure investment and health outcomes across
-Brazilian municipalities, using DiD to identify the effect of infrastructure shocks on
-local health indicators.
+DiD with event study across 5,500+ Brazilian municipalities assessing how federal
+capitation reform (Previne Brasil) affected primary care infrastructure and health
+outcomes.
 
 [View paper →](pdfs/brazil-health-outcome.pdf)
 
