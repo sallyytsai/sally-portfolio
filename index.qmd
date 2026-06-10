@@ -17,89 +17,167 @@ about:
       href: https://www.linkedin.com/in/sallyytsai/
 ---
 
-I am an **MPA/ID candidate at Harvard Kennedy School** (2027), specializing in international political economy, trade policy, and causal inference. My research asks how small open economies navigate the intersection of security competition and economic integration — particularly when the two pull in opposite directions. I work primarily with cross-national quantitative methods and combine them with process tracing and case analysis grounded in the political and institutional context.
+I study how small open economies — particularly Taiwan — design industrial and trade
+policy under geopolitical pressure. My current work spans two empirical projects: a
+cross-national analysis of how security salience shapes trade restrictions on geopolitical
+rivals' goods, with Taiwan's EV ban as the crucial case; and a study of VAT pass-through
+in Philippine pharmaceutical markets, where procurement regulation suppresses the consumer
+welfare gains from fiscal reform. A third project examines how Taiwanese SMEs adjust
+supply chains and export markets under sustained geopolitical disruption. I combine
+quantitative methods with Mandarin-language primary source access — MOEA firm data, SMEA
+surveys, Legislative Yuan records — that most researchers working on these questions
+cannot use directly.
 
-I hold a concurrent appointment as a **Research Affiliate at the Philippine Competition Commission** (with Carlos Vega), where I study fiscal pass-through in regulated markets. Before HKS, I worked in public policy and finance in Taiwan and Southeast Asia.
-
----
-
-## Research Questions
-
-| # | Question | Methods | Geography |
-|---|----------|---------|-----------|
-| Q1 | How does security salience shape small open economies' trade restrictions on geopolitical rivals' goods? | Cross-national ordered logit, synthetic control | 60+ countries |
-| Q2 | Do VAT reforms pass through to consumer prices in regulated pharmaceutical markets, and who bears the welfare cost? | DiD, triple-difference, synthetic control | Philippines |
-| Q3 | How do SMEs in trade-exposed sectors adjust to geopolitical supply-chain disruptions? | Survey + quasi-experimental | Taiwan/East Asia |
-| Q4 | Does geopolitical exposure generate Dutch-disease-style crowding-out in non-defense tradables? | Panel IV | East Asia |
+Currently: MPA/ID Candidate 2027, Harvard Kennedy School. Incoming data infrastructure
+intern, African Legal Support Facility (ALSF / African Development Bank). Former research
+associate, Philippine Competition Commission — Economics Office.
 
 ---
 
 ## Featured Research
 
-::: {.grid}
-
-::: {.g-col-12 .g-col-md-6}
 ### The Security Premium: Why Taiwan Maintains the World's Most Restrictive Policy toward Chinese Electric Vehicles
-**Co-authors:** Cheng Wang · Luis Hong Sanchez · HKS DPI-410, Spring 2026
 
-**Methods:** Cross-national ordered logit (N ≈ 60) · Synthetic control · Placebo inference · Process tracing
+**Authors:** Sally Tsai · Cheng Wang · Luis Hong Sanchez
+**Venue:** Harvard Kennedy School, DPI-410: The Politics of Development · Spring 2026
 
-Taiwan bans BYD outright while Germany imposes a 35% tariff and Indonesia mandates local content. Why do countries facing the same Chinese EV competitive threat respond so differently? This paper argues the key variable is **security salience** — the degree to which a country perceives the exporting state as a strategic threat — rather than domestic industry lobbying or consumer welfare calculus.
+**Methods:** Cross-national ordered logit (N=48) · Synthetic control · Within-case
+process trace · Leave-one-out cross-validation · Placebo inference
 
-We construct a 0–3 ordered policy restrictiveness index across 60+ countries and show security salience (operationalized as UNGA divergence, alliance portfolio distance, and SCO membership) predicts the upper tail of the distribution even after controlling for domestic EV penetration, production capacity, and democratic accountability. A synthetic control for Taiwan traces the 2022–2024 tightening and rejects alternative explanations. Process tracing confirms the mechanism runs through elite threat perception, not industry rents.
+Taiwan produces 275,000 vehicles annually, hosts no domestically owned EV brand, and
+has no organized producer lobby — the Grossman-Helpman model predicts minimal trade
+restriction. Its observed policy is a complete ban on Chinese vehicles, the most
+restrictive of any economy in the world. We argue the missing variable is *security
+salience*: when the import source is a geopolitical adversary capable of weaponizing
+economic interdependence, governments apply a security premium above the
+Grossman-Helpman equilibrium.
 
-**Framework:** The paper maps countries onto a 2×2 of (security salience × domestic EV industry strength) to distinguish four policy archetypes: Security Firewall (Taiwan), Strategic Hedge (EU), Industrial Shield (Indonesia/Thailand), and Open Market (Singapore/NZ).
+Three methods triangulate on this conclusion. A cross-national ordered logit across
+60+ countries shows Taiwan is the largest positive residual in the industry-only model;
+when the EU is correctly treated as a single policy decision-maker, the security channel
+achieves statistical significance (α = −0.524, SE = 0.231, p<0.05). A leave-one-out
+cross-validation estimates only a 4% probability that Taiwan would receive maximum
+restriction absent the security channel. A synthetic control places Taiwan's vehicle
+production 29% below its counterfactual trajectory after 2016. A within-case process
+trace provides mechanism identification: policy tightening began only when the DPP
+raised security salience after 2016 — the same structural threat under the KMT from
+2008–2016 produced no additional restriction, isolating political salience as the
+operative variable rather than structural threat level.
 
-[Download paper (PDF) →](pdfs/tsai-wang-sanchez-security-premium-2026.pdf)
-:::
+The paper introduces a 2×2 framework (ICE industry size × EV adoption level) that
+generates quadrant-specific predictions for 193 countries, identifying where the
+Grossman-Helpman channel dominates, where the security channel is necessary and
+sufficient, and where consumer welfare overwhelms both. Taiwan in Q3 (small ICE
+industry, low EV adoption, maximum restriction) is the cleanest test case for the
+security premium.
 
-::: {.g-col-12 .g-col-md-6}
+**Policy implication:** As Chinese EV manufacturers expand globally, the
+security-augmented model predicts the frontier of trade restriction will be determined
+by security alignment, not domestic industry size.
+
+[View paper →](pdfs/tsai-wang-sanchez-security-premium-2026.pdf)
+
+---
+
 ### VAT Pass-Through in Philippine Pharmaceutical Markets: Evidence from the TRAIN Act
-**Co-author:** Carlos Vega (Philippine Competition Commission / University of East Anglia) · Working Paper, 2026
 
-**Methods:** Difference-in-differences · Triple-difference · Synthetic control · Welfare decomposition
+**Authors:** Sally Tsai · Carlos Vega
+**Affiliations:** Harvard Kennedy School; Philippine Competition Commission /
+Centre for Competition Policy, University of East Anglia · June 2026
 
-The Philippines' 2018 TRAIN Act removed VAT exemptions on medicines for non-essential conditions while maintaining them for drugs treating diabetes, hypertension, and high cholesterol. This natural experiment allows clean identification of VAT pass-through rates under market regulation.
+**Methods:** Difference-in-differences (product FE, 8 pre-treatment quarters, event
+study) · Triple-difference by license type · Synthetic control (ASEAN comparators) ·
+Parallel quantity DiD
 
-Using transaction-level pharmacy data, we estimate near-complete pass-through (≈95%) for affected molecules, implying the tax burden falls almost entirely on consumers. A triple-difference exploiting the essential/non-essential split and the brand/generic margin confirms the finding is not driven by concurrent supply shocks. Synthetic control corroborates the parallel-trends assumption. Welfare calculations show the bottom income quintile bears approximately 2.3× the VAT burden as a share of out-of-pocket health expenditure relative to the top quintile.
+The 2019 TRAIN Act (RA 10963) exempted essential medicines for hypertension, diabetes,
+and high cholesterol from the Philippines' 12% value-added tax — a reform explicitly
+designed to lower out-of-pocket drug costs for Filipino households. Using product-level
+quarterly IQVIA MIDAS data (2009–2021, N=44,339 observations, 1,953 products), we find
+*no pass-through to patients*: treated drug prices rose approximately 2.3% relative to
+controls following the exemption (β̂ = 0.023\*\*\*, SE = 0.005), with firms absorbing the
+tax relief entirely as margin expansion on unregulated low-volume products. Volume-weighted
+estimates are statistically indistinguishable from zero, consistent with procurement
+regulation suppressing pass-through for the high-volume products that dominate patient
+spending.
 
-The results have direct implications for pharmaceutical pricing regulation and VAT exemption design in middle-income countries with mixed public-private drug markets.
+A triple-difference decomposition by license type reveals the competitive mechanism.
+Originators with inelastic brand-loyal demand extracted the full tax relief as margin
+(β̂\_O = 0.045\*\*\*); branded non-originators showed a significantly smaller response
+(β̂\_B = 0.013\*\*); unbranded generics facing price competition showed no significant
+adjustment (β̂\_U = 0.002, n.s.). Wald tests confirm the originator–generic gradient is
+statistically distinct (p<0.001). A parallel DiD on quantities finds retail volumes of
+treated drugs fell approximately 20% (β̂ = −0.208\*\*\*, SE = 0.063) while hospital
+volumes were unchanged — a *double welfare loss* in the retail channel: list prices rose
+and retail consumption fell simultaneously. Back-of-envelope welfare accounting finds
+Filipino households incurred roughly PHP 216–262 more in annual essential drug costs
+than they would have saved under full pass-through — approximately 4–5% of baseline
+out-of-pocket spending.
 
-[Download paper (PDF) →](pdfs/tsai-vega-vat-passthrough-2026.pdf)
-:::
+**Policy implication:** VAT exemptions are an ineffective instrument for reducing
+patient drug costs when procurement regulation already binds for high-volume products.
+The fiscal cost accrues to producers, not patients.
 
-:::
+[View paper →](pdfs/tsai-vega-vat-passthrough-2026.pdf)
 
 ---
 
 ## Research in Progress
 
-**SME Trade Adjustment to Geopolitical Supply-Chain Disruption** *(SYPA project, HKS)*
-How do small and medium enterprises in Taiwan's electronics supply chain reallocate inputs, customers, and capital in response to US-China technology decoupling? Survey design + quasi-experimental analysis of firm-level administrative data. Expected output: policy memo + working paper, Summer 2026.
+**SME Trade Adjustment under Geopolitical Pressure** *(SYPA — in progress)*
 
-**Geopolitical Dutch Disease: Does Security Spending Crown Out Tradable Non-Defense Sectors?**
-A panel IV approach testing whether elevated defense spending in small open economies depresses export competitiveness in non-defense manufacturing, using geopolitical risk shocks as instruments. Early-stage; building dataset from SIPRI + UN Comtrade.
+How do Taiwanese SMEs adjust export destinations and supply chains under sustained
+geopolitical pressure from China? Identification exploits three distinct escalation
+episodes — the 2016 DPP election, 2019–20 trade tensions, and the 2022 Pelosi visit
+and PLA exercises — as temporal variation in treatment intensity, using staggered DiD
+(Callaway-Sant'Anna) on MOEA Industry Statistics and SMEA Annual Survey firm data.
+New Southbound Policy subsidies provide a natural treatment-control comparison for
+identifying intentional diversification responses versus passive adjustment.
+
+---
+
+## Methods & Applied Work
+
+### Public Health Infrastructure and Outcomes in Brazil
+
+**Methods:** Difference-in-differences · Program evaluation · Municipal-level panel data
+
+Causal analysis of public health infrastructure investment and health outcomes across
+Brazilian municipalities, using DiD to identify the effect of infrastructure shocks on
+local health indicators.
+
+[View paper →](pdfs/brazil-health-outcome.pdf)
 
 ---
 
 ## Earlier Work
 
-**Taiwan Nuclear Policy Cycle** — Policy memo analyzing the political and institutional dynamics behind Taiwan's nuclear energy transitions. [View →](pdfs/PPG401 policy cycle.pdf)
+[Taiwan Nuclear Policy Cycle](pdfs/PPG401 policy cycle.pdf) — Policy memo analyzing
+the political and institutional dynamics behind Taiwan's nuclear energy transitions.
 
-**Taiwan's Energy Transition** — Quantitative memo on renewable energy adoption constraints and grid integration policy. [View →](pdfs/POl474 Paper 1.pdf)
+[Taiwan's Energy Transition](pdfs/POl474 Paper 1.pdf) — Quantitative memo on renewable
+energy adoption constraints and grid integration policy.
 
 ---
 
 ## Skills & Tools
 
-**Programming:** R (tidyverse, ggplot2, fixest, synthetic control, Quarto) · Stata · Excel
+**Programming:** R (tidyverse, ggplot2, fixest, did, Synth, economiccomplexity, Quarto) · Stata
 
-**Causal inference:** DiD · Triple-difference · Synthetic control · IV · RD · Ordered logit · OLS with robust/clustered SEs
+**Causal inference:** DiD · Staggered DiD (Callaway-Sant'Anna) · Triple-difference ·
+Synthetic control · Event study · Ordered logit · Panel FE · IV · RD · OLS with
+robust/clustered SEs
 
-**Research methods:** Cross-national quantitative analysis · Process tracing · Elite interviews · Survey design
+**Research methods:** Cross-national quantitative analysis · Process tracing ·
+Survey design · Welfare decomposition
 
-**Areas:** Cross-strait political economy · Industrial and trade policy · Pharmaceutical markets · Small open economy macro · State capacity
+**Areas:** Industrial & trade policy · Economic statecraft & coercion · Pharmaceutical
+market structure · Small open economy development · Cross-strait political economy ·
+SME trade adjustment
 
-**Languages:** English (native) · Mandarin (native) — enables primary-source access to Chinese-language government data, firm filings, and media
+**Languages:** English (native) · Mandarin (native) — enables primary-source access
+to Chinese-language government data, firm filings, Legislative Yuan records, and MOEA/SMEA
+firm surveys
 
-**AI-augmented research:** Proficient in using LLMs (Claude, ChatGPT) for literature synthesis, code iteration, argument stress-testing, and memo drafting — treating AI as a research accelerant, not a substitute for analytical judgment
+**AI-augmented research:** Proficient in using LLMs (Claude, ChatGPT) for literature
+synthesis, code iteration, argument stress-testing, and memo drafting — treating AI as
+a research accelerant, not a substitute for analytical judgment

@@ -1,0 +1,51 @@
+/*-- scss:defaults --*/
+$rust:   #B85C38;
+$navy:   #1A5699;
+$forest: #2D7A5F;
+$muted:  #7A6A62;
+$dark:   #1C1814;
+
+/*-- scss:rules --*/
+
+h1 {
+  color: $dark;
+}
+
+h2 {
+  color: $dark;
+  border-left: 4px solid $rust;
+  padding-left: 0.75rem;
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+}
+
+h3 {
+  color: $navy;
+  margin-top: 1.5rem;
+}
+
+a {
+  color: $navy;
+}
+
+a:hover {
+  color: $rust;
+  text-decoration: underline;
+}
+
+.navbar-brand {
+  color: $dark !important;
+  font-weight: 600;
+}
+
+.nav-link {
+  color: $muted !important;
+}
+
+.nav-link:hover {
+  color: $rust !important;
+}
+
+p strong {
+  color: $dark;
+}
